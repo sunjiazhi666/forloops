@@ -21,19 +21,24 @@ public class forloops
 
 		private static void challenge2()
 			{
-				for(int timesofilovemullen = )
+				for(int i = 2; i <= 20; i = i + 2 ){
+					System.out.println(i + ")I Love Mullen");
+				}
 
 			}
 
-		private static Object challenge3()
+		private static void challenge3()
 			{
-				// TODO Auto-generated method stub
-				return null;
+				
+				
 			}
 
 		private static void challenge4()
 			{
-				// TODO Auto-generated method stub
+				for (int i = 10; i >= 1; i --){
+					System.out.println(i);
+				}
+				System.out.println("Liftoff");
 
 			}
 	}
