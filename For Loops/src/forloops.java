@@ -21,7 +21,7 @@ public class forloops
 
 		private static void challenge2()
 			{
-				// TODO Auto-generated method stub
+				for(int timesofilovemullen = )
 
 			}
 
