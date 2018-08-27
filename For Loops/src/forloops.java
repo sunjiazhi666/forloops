@@ -9,7 +9,10 @@ public class forloops
 				challenge2();
 				challenge3();
 				challenge4();
+				Morechallenge1();
 			}
+
+		
 
 		private static void challenge1()
 			{
@@ -29,8 +32,10 @@ public class forloops
 
 		private static void challenge3()
 			{
-				
-				
+				for (int i = 1; i <= 5; i++){
+					System.out.print(i);
+				}
+				System.out.println();
 			}
 
 		private static void challenge4()
@@ -41,4 +46,11 @@ public class forloops
 				System.out.println("Liftoff");
 
 			}
+		
+		private static void Morechallenge1()
+			{
+				for
+				
+			}
+		
 	}
